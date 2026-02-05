@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Python cache (if you also have Python scripts)
+__pycache__/
+*.pyc
